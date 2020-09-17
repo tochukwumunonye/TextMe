@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658529271086",
+    "firebase_url": "https://textme-be07b.firebaseio.com",
+    "project_id": "textme-be07b",
+    "storage_bucket": "textme-be07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658529271086:android:f5497180b75cdd9df7cebf",
+        "android_client_info": {
+          "package_name": "com.example.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658529271086-krhfdp7onsgq33fpl37uhe39a1lu8hje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textme",
+            "certificate_hash": "31452593d5eaaf9c9aef84a57e061771911bfb65"
+          }
+        },
+        {
+          "client_id": "658529271086-15n493rr23393an53im776dvumtg9p5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK_-pcAecq_KhR4_S_rBKomuLAQoWtnJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658529271086-15n493rr23393an53im776dvumtg9p5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
